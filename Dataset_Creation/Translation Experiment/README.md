@@ -9,7 +9,11 @@ However, Llama-2 was trained on an 89.7% English-dominated corpus. **Our experim
 To test this, we expand the original two-language tracking (`en` vs. `target_lang`) into a **4-candidate principal language framework**:
 
 
-$$\text{Candidates} = \{\text{English } (\texttt{en}), \text{ Hindi } (\texttt{hi}), \text{ Source } (\texttt{input\_lang}), \text{ Target } (\texttt{target\_lang})\}$$
+$$
+\text{Candidates} = \{\text{English } (\texttt{en}), \text{ Hindi } (\texttt{hi}), \text{ Source } (\texttt{input\_lang}), \text{ Target } (\texttt{target\_lang})\}
+$$
+
+
 
 ---
 
@@ -17,36 +21,12 @@ $$\text{Candidates} = \{\text{English } (\texttt{en}), \text{ Hindi } (\texttt{h
 
 | Pipeline Component | Original Paper (`Translation.ipynb`) | Our Implementation (Sarvam-2B Multi-Candidate) |
 | --- | --- | --- |
-| **Base Model & Architecture** | `meta-llama/Llama-2-7b-hf` (32 layers, $d=4096$, $v=32,000$)
-
- | `sarvamai/sarvam-2b-v0.5` (28 layers, $d=2048$, $v=64,128$)
-
- |
-| **Data Merging** | Merges 2 CSVs (`input_lang`, `target_lang`) on English
-
- | Merges 3+ CSVs dynamically across all candidates (`en`, `hi`, `ben`, `tam`)
-
- |
-| **Token Prefix Matching** | SentencePiece `▁` prefix + `<0x..>` byte fallback for `zh`/`ru`
-
- | SentencePiece `▁` prefix + `tokenizer.encode()` fallback for Indic ligatures
-
- |
-| **Latent Language Tracking** | Tracks only 1 latent language (`lang_latent='en'`) + target
-
- | Simultaneously tracks all 4 candidate languages in `lang_probs` dictionary
-
- |
-| **VRAM & Device Handling** | Unembeds entire sequence `[L, seq_len, d]`; CPU/GPU mismatch bug
-
- | Patched `get_logits` device; slices last token `[L, d]` *before* `unemb` (saves ~95% VRAM)
-
- |
-| **Visualization** | 1 plot (`en` vs `target_lang`) + 1 energy plot
-
- | $2 \times 2$ comparative grid + 4 individual paper-style entropy heatmap PDFs + energy plot
-
- |
+| **Base Model & Architecture** | `meta-llama/Llama-2-7b-hf` (32 layers, $d=4096$, $v=32,000$) | `sarvamai/sarvam-2b-v0.5` (28 layers, $d=2048$, $v=64,128$) |
+| **Data Merging** | Merges 2 CSVs (`input_lang`, `target_lang`) on English | Merges 3+ CSVs dynamically across all candidates (`en`, `hi`, `ben`, `tam`) |
+| **Token Prefix Matching** | SentencePiece `▁` prefix + `<0x..>` byte fallback for `zh`/`ru` | SentencePiece `▁` prefix + `tokenizer.encode()` fallback for Indic ligatures |
+| **Latent Language Tracking** | Tracks only 1 latent language (`lang_latent='en'`) + target | Simultaneously tracks all 4 candidate languages in `lang_probs` dictionary |
+| **VRAM & Device Handling** | Unembeds entire sequence `[L, seq_len, d]`; CPU/GPU mismatch bug | Patched `get_logits` device; slices last token `[L, d]` *before* `unemb` (saves ~95% VRAM) |
+| **Visualization** | 1 plot (`en` vs `target_lang`) + 1 energy plot | $2 \times 2$ comparative grid + 4 individual paper-style entropy heatmap PDFs + energy plot |
 
 ---
 
