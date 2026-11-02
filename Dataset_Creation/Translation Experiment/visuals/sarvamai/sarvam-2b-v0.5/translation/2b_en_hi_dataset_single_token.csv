@@ -1,0 +1,1381 @@
+prompt,in_token_str,out_token_str,out_token_id,en_token_str,en_token_id,hi_token_str,hi_token_id
+"Translate the following words from English to Hindi.
+
+English: ""platform"" - हिन्दी: ""मंच""
+English: ""hand"" - हिन्दी: ""हाथ""
+English: ""two"" - हिन्दी: ""दो""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""position"" - हिन्दी: ""स्थिति""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""book"" - हिन्दी: """,book,किताब,[20326],book,[5670],किताब,[20326]
+"Translate the following words from English to Hindi.
+
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""household"" - हिन्दी: ""घर""
+English: ""position"" - हिन्दी: ""स्थिति""
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""platform"" - हिन्दी: ""मंच""
+English: ""sound"" - हिन्दी: ""आवाज़""
+English: ""river"" - हिन्दी: ""नदी""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""example"" - हिन्दी: ""उदाहरण""
+English: ""cloud"" - हिन्दी: """,cloud,बादल,[33892],cloud,[30149],बादल,[33892]
+"Translate the following words from English to Hindi.
+
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""lake"" - हिन्दी: ""झील""
+English: ""time"" - हिन्दी: ""समय""
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""machine"" - हिन्दी: ""मशीन""
+English: ""hand"" - हिन्दी: ""हाथ""
+English: ""soil"" - हिन्दी: """,soil,मिट्टी,[25902],soil,[11304],मिट्टी,[25902]
+"Translate the following words from English to Hindi.
+
+English: ""time"" - हिन्दी: ""समय""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""light"" - हिन्दी: ""प्रकाश""
+English: ""middle"" - हिन्दी: ""मध्य""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""thousand"" - हिन्दी: ""हजार""
+English: ""mountain"" - हिन्दी: """,mountain,पहाड़,[54275],mountain,[29736],पहाड़,[54275]
+"Translate the following words from English to Hindi.
+
+English: ""item"" - हिन्दी: ""वस्तु""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""day"" - हिन्दी: ""दिन""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""child"" - हिन्दी: ""बच्चा""
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""heart"" - हिन्दी: """,heart,दिल,[12300],heart,[7877],दिल,[12300]
+"Translate the following words from English to Hindi.
+
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""five"" - हिन्दी: ""पाँच""
+English: ""thousand"" - हिन्दी: ""हजार""
+English: ""generation"" - हिन्दी: ""पीढ़ी""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""two"" - हिन्दी: ""दो""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""hand"" - हिन्दी: """,hand,हाथ,[10863],hand,[4435],हाथ,[10863]
+"Translate the following words from English to Hindi.
+
+English: ""thousand"" - हिन्दी: ""हजार""
+English: ""sound"" - हिन्दी: ""आवाज़""
+English: ""one"" - हिन्दी: ""एक""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""ground"" - हिन्दी: ""मैदान""
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""hair"" - हिन्दी: ""बाल""
+English: ""history"" - हिन्दी: ""इतिहास""
+English: ""day"" - हिन्दी: """,day,दिन,[3576],day,[4712],दिन,[3576]
+"Translate the following words from English to Hindi.
+
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""gold"" - हिन्दी: ""सोना""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""red"" - हिन्दी: ""लाल""
+English: ""six"" - हिन्दी: ""छह""
+English: ""five"" - हिन्दी: ""पाँच""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""spring"" - हिन्दी: """,spring,वसंत,[35251],spring,[20993],वसंत,[35251]
+"Translate the following words from English to Hindi.
+
+English: ""word"" - हिन्दी: ""शब्द""
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""platform"" - हिन्दी: ""मंच""
+English: ""gold"" - हिन्दी: ""सोना""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""household"" - हिन्दी: ""घर""
+English: ""item"" - हिन्दी: ""वस्तु""
+English: ""river"" - हिन्दी: ""नदी""
+English: ""wood"" - हिन्दी: """,wood,लकड़ी,[23848],wood,[13446],लकड़ी,[23848]
+"Translate the following words from English to Hindi.
+
+English: ""city"" - हिन्दी: ""शहर""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""sea"" - हिन्दी: ""समुद्र""
+English: ""soil"" - हिन्दी: ""मिट्टी""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""house"" - हिन्दी: ""घर""
+English: ""tribe"" - हिन्दी: ""जनजाति""
+English: ""village"" - हिन्दी: """,village,गाँव,[14273],village,[28681],गाँव,[14273]
+"Translate the following words from English to Hindi.
+
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""village"" - हिन्दी: ""गाँव""
+English: ""group"" - हिन्दी: ""समूह""
+English: ""city"" - हिन्दी: ""शहर""
+English: ""meeting"" - हिन्दी: ""बैठक""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""rock"" - हिन्दी: ""चट्टान""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""forest"" - हिन्दी: """,forest,जंगल,[30621],forest,[13431],जंगल,[30621]
+"Translate the following words from English to Hindi.
+
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""section"" - हिन्दी: ""खंड""
+English: ""ten"" - हिन्दी: ""दस""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""light"" - हिन्दी: ""प्रकाश""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""word"" - हिन्दी: ""शब्द""
+English: ""valley"" - हिन्दी: ""घाटी""
+English: ""red"" - हिन्दी: ""लाल""
+English: ""fruit"" - हिन्दी: """,fruit,फल,[26094],fruit,[18661],फल,[26094]
+"Translate the following words from English to Hindi.
+
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""house"" - हिन्दी: ""घर""
+English: ""group"" - हिन्दी: ""समूह""
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""two"" - हिन्दी: ""दो""
+English: ""mountain"" - हिन्दी: ""पहाड़""
+English: ""school"" - हिन्दी: ""विद्यालय""
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""song"" - हिन्दी: """,song,गीत,[7419],song,[23756],गीत,[7419]
+"Translate the following words from English to Hindi.
+
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""painting"" - हिन्दी: ""पेंटिंग""
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""source"" - हिन्दी: ""स्रोत""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""five"" - हिन्दी: ""पाँच""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""water"" - हिन्दी: """,water,पानी,[6879],water,[3176],पानी,[6879]
+"Translate the following words from English to Hindi.
+
+English: ""book"" - हिन्दी: ""किताब""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""part"" - हिन्दी: ""हिस्सा""
+English: ""cave"" - हिन्दी: ""गुफा""
+English: ""street"" - हिन्दी: ""सड़क""
+English: ""five"" - हिन्दी: ""पाँच""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""meeting"" - हिन्दी: ""बैठक""
+English: ""eye"" - हिन्दी: ""आँख""
+English: ""pond"" - हिन्दी: """,pond,तालाब,[43965],pond,[52402],तालाब,[43965]
+"Translate the following words from English to Hindi.
+
+English: ""light"" - हिन्दी: ""प्रकाश""
+English: ""source"" - हिन्दी: ""स्रोत""
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""painting"" - हिन्दी: ""पेंटिंग""
+English: ""eye"" - हिन्दी: ""आँख""
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""middle"" - हिन्दी: ""मध्य""
+English: ""sand"" - हिन्दी: """,sand,रेत,[55974],sand,[22333],रेत,[55974]
+"Translate the following words from English to Hindi.
+
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""attempt"" - हिन्दी: ""प्रयास""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""house"" - हिन्दी: ""घर""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""river"" - हिन्दी: """,river,नदी,[6851],river,[19705],नदी,[6851]
+"Translate the following words from English to Hindi.
+
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""item"" - हिन्दी: ""वस्तु""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""net"" - हिन्दी: ""जाल""
+English: ""point"" - हिन्दी: ""बिंदु""
+English: ""north"" - हिन्दी: ""उत्तर""
+English: ""official"" - हिन्दी: ""अधिकारी""
+English: ""law"" - हिन्दी: """,law,कानून,[10036],law,[6018],कानून,[10036]
+"Translate the following words from English to Hindi.
+
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""one"" - हिन्दी: ""एक""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""gold"" - हिन्दी: ""सोना""
+English: ""law"" - हिन्दी: ""कानून""
+English: ""wave"" - हिन्दी: """,wave,लहर,[44902],wave,[29029],लहर,[44902]
+"Translate the following words from English to Hindi.
+
+English: ""field"" - हिन्दी: ""क्षेत्र""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""cave"" - हिन्दी: ""गुफा""
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""one"" - हिन्दी: ""एक""
+English: ""house"" - हिन्दी: ""घर""
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""ocean"" - हिन्दी: """,ocean,महासागर,[46042],ocean,[22675],महासागर,[46042]
+"Translate the following words from English to Hindi.
+
+English: ""fire"" - हिन्दी: ""आग""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""example"" - हिन्दी: ""उदाहरण""
+English: ""meeting"" - हिन्दी: ""बैठक""
+English: ""wave"" - हिन्दी: ""लहर""
+English: ""group"" - हिन्दी: ""समूह""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""mother"" - हिन्दी: ""माँ""
+English: ""point"" - हिन्दी: ""बिंदु""
+English: ""cave"" - हिन्दी: """,cave,गुफा,[38174],cave,[53225],गुफा,[38174]
+"Translate the following words from English to Hindi.
+
+English: ""lake"" - हिन्दी: ""झील""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""river"" - हिन्दी: ""नदी""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""one"" - हिन्दी: ""एक""
+English: ""gold"" - हिन्दी: ""सोना""
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""sea"" - हिन्दी: """,sea,समुद्र,[15092],sea,[14105],समुद्र,[15092]
+"Translate the following words from English to Hindi.
+
+English: ""red"" - हिन्दी: ""लाल""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""point"" - हिन्दी: ""बिंदु""
+English: ""hand"" - हिन्दी: ""हाथ""
+English: ""child"" - हिन्दी: ""बच्चा""
+English: ""example"" - हिन्दी: ""उदाहरण""
+English: ""lake"" - हिन्दी: """,lake,झील,[23840],lake,[38357],झील,[23840]
+"Translate the following words from English to Hindi.
+
+English: ""ocean"" - हिन्दी: ""महासागर""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""hand"" - हिन्दी: ""हाथ""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""wood"" - हिन्दी: ""लकड़ी""
+English: ""mountain"" - हिन्दी: ""पहाड़""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""source"" - हिन्दी: """,source,स्रोत,[21813],source,[8165],स्रोत,[21813]
+"Translate the following words from English to Hindi.
+
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""point"" - हिन्दी: ""बिंदु""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""spring"" - हिन्दी: ""वसंत""
+English: ""cloud"" - हिन्दी: ""बादल""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""fire"" - हिन्दी: """,fire,आग,[11270],fire,[11636],आग,[11270]
+"Translate the following words from English to Hindi.
+
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""four"" - हिन्दी: ""चार""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""spring"" - हिन्दी: ""वसंत""
+English: ""platform"" - हिन्दी: ""मंच""
+English: ""group"" - हिन्दी: ""समूह""
+English: ""song"" - हिन्दी: ""गीत""
+English: ""painting"" - हिन्दी: ""पेंटिंग""
+English: ""point"" - हिन्दी: """,point,बिंदु,[20333],point,[4784],बिंदु,[20333]
+"Translate the following words from English to Hindi.
+
+English: ""site"" - हिन्दी: ""साइट""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""hair"" - हिन्दी: ""बाल""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""position"" - हिन्दी: ""स्थिति""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""thousand"" - हिन्दी: ""हजार""
+English: ""version"" - हिन्दी: """,version,संस्करण,[9016],version,[13696],संस्करण,[9016]
+"Translate the following words from English to Hindi.
+
+English: ""six"" - हिन्दी: ""छह""
+English: ""eye"" - हिन्दी: ""आँख""
+English: ""rock"" - हिन्दी: ""चट्टान""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""time"" - हिन्दी: ""समय""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""wave"" - हिन्दी: ""लहर""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""ball"" - हिन्दी: """,ball,गेंद,[15742],ball,[18802],गेंद,[15742]
+"Translate the following words from English to Hindi.
+
+English: ""red"" - हिन्दी: ""लाल""
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""group"" - हिन्दी: ""समूह""
+English: ""shop"" - हिन्दी: ""दुकान""
+English: ""site"" - हिन्दी: ""साइट""
+English: ""heart"" - हिन्दी: ""दिल""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""painting"" - हिन्दी: """,painting,पेंटिंग,[57828],painting,[34088],पेंटिंग,[57828]
+"Translate the following words from English to Hindi.
+
+English: ""valley"" - हिन्दी: ""घाटी""
+English: ""sound"" - हिन्दी: ""आवाज़""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""sea"" - हिन्दी: ""समुद्र""
+English: ""platform"" - हिन्दी: ""मंच""
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""return"" - हिन्दी: ""वापसी""
+English: ""station"" - हिन्दी: """,station,स्टेशन,[7166],station,[23978],स्टेशन,[7166]
+"Translate the following words from English to Hindi.
+
+English: ""meeting"" - हिन्दी: ""बैठक""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""group"" - हिन्दी: ""समूह""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""house"" - हिन्दी: ""घर""
+English: ""river"" - हिन्दी: ""नदी""
+English: ""child"" - हिन्दी: ""बच्चा""
+English: ""song"" - हिन्दी: ""गीत""
+English: ""rice"" - हिन्दी: """,rice,चावल,[45574],rice,[35057],चावल,[45574]
+"Translate the following words from English to Hindi.
+
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""thousand"" - हिन्दी: ""हजार""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""red"" - हिन्दी: """,red,लाल,[9365],red,[10173],लाल,[9365]
+"Translate the following words from English to Hindi.
+
+English: ""word"" - हिन्दी: ""शब्द""
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""mother"" - हिन्दी: ""माँ""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""hand"" - हिन्दी: ""हाथ""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""line"" - हिन्दी: """,line,रेखा,[18406],line,[6918],रेखा,[18406]
+"Translate the following words from English to Hindi.
+
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""street"" - हिन्दी: ""सड़क""
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""city"" - हिन्दी: ""शहर""
+English: ""thousand"" - हिन्दी: ""हजार""
+English: ""sound"" - हिन्दी: ""आवाज़""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""net"" - हिन्दी: """,net,जाल,[41411],net,[8298],जाल,[41411]
+"Translate the following words from English to Hindi.
+
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""household"" - हिन्दी: ""घर""
+English: ""item"" - हिन्दी: ""वस्तु""
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""return"" - हिन्दी: ""वापसी""
+English: ""cave"" - हिन्दी: ""गुफा""
+English: ""flower"" - हिन्दी: """,flower,फूल,[23124],flower,[38626],फूल,[23124]
+"Translate the following words from English to Hindi.
+
+English: ""city"" - हिन्दी: ""शहर""
+English: ""tribe"" - हिन्दी: ""जनजाति""
+English: ""four"" - हिन्दी: ""चार""
+English: ""six"" - हिन्दी: ""छह""
+English: ""water"" - हिन्दी: ""पानी""
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""history"" - हिन्दी: ""इतिहास""
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""foot"" - हिन्दी: ""पैर""
+English: ""tea"" - हिन्दी: """,tea,चाय,[37669],tea,[32949],चाय,[37669]
+"Translate the following words from English to Hindi.
+
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""five"" - हिन्दी: ""पाँच""
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""fire"" - हिन्दी: ""आग""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""east"" - हिन्दी: ""पूर्व""
+English: ""light"" - हिन्दी: ""प्रकाश""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""foot"" - हिन्दी: """,foot,पैर,[23537],foot,[14935],पैर,[23537]
+"Translate the following words from English to Hindi.
+
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""generation"" - हिन्दी: ""पीढ़ी""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""day"" - हिन्दी: ""दिन""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""gold"" - हिन्दी: """,gold,सोना,[45526],gold,[18901],सोना,[45526]
+"Translate the following words from English to Hindi.
+
+English: ""city"" - हिन्दी: ""शहर""
+English: ""mountain"" - हिन्दी: ""पहाड़""
+English: ""north"" - हिन्दी: ""उत्तर""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""book"" - हिन्दी: ""किताब""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""attempt"" - हिन्दी: ""प्रयास""
+English: ""door"" - हिन्दी: """,door,द्वार,[29101],door,[30024],द्वार,[29101]
+"Translate the following words from English to Hindi.
+
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""machine"" - हिन्दी: ""मशीन""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""east"" - हिन्दी: ""पूर्व""
+English: ""hair"" - हिन्दी: ""बाल""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""rock"" - हिन्दी: ""चट्टान""
+English: ""foot"" - हिन्दी: ""पैर""
+English: ""snow"" - हिन्दी: """,snow,बर्फ,[29868],snow,[26637],बर्फ,[29868]
+"Translate the following words from English to Hindi.
+
+English: ""net"" - हिन्दी: ""जाल""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""village"" - हिन्दी: ""गाँव""
+English: ""wave"" - हिन्दी: ""लहर""
+English: ""four"" - हिन्दी: ""चार""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""time"" - हिन्दी: ""समय""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""one"" - हिन्दी: """,one,एक,[576],one,[1749],एक,[576]
+"Translate the following words from English to Hindi.
+
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""gold"" - हिन्दी: ""सोना""
+English: ""sound"" - हिन्दी: ""आवाज़""
+English: ""ground"" - हिन्दी: ""मैदान""
+English: ""heart"" - हिन्दी: ""दिल""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""two"" - हिन्दी: """,two,दो,[1258],two,[2914],दो,[1258]
+"Translate the following words from English to Hindi.
+
+English: ""one"" - हिन्दी: ""एक""
+English: ""net"" - हिन्दी: ""जाल""
+English: ""source"" - हिन्दी: ""स्रोत""
+English: ""hair"" - हिन्दी: ""बाल""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""heart"" - हिन्दी: ""दिल""
+English: ""three"" - हिन्दी: """,three,तीन,[3169],three,[5012],तीन,[3169]
+"Translate the following words from English to Hindi.
+
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""example"" - हिन्दी: ""उदाहरण""
+English: ""generation"" - हिन्दी: ""पीढ़ी""
+English: ""book"" - हिन्दी: ""किताब""
+English: ""return"" - हिन्दी: ""वापसी""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""six"" - हिन्दी: ""छह""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""two"" - हिन्दी: ""दो""
+English: ""four"" - हिन्दी: """,four,चार,[4313],four,[7184],चार,[4313]
+"Translate the following words from English to Hindi.
+
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""house"" - हिन्दी: ""घर""
+English: ""cloud"" - हिन्दी: ""बादल""
+English: ""position"" - हिन्दी: ""स्थिति""
+English: ""middle"" - हिन्दी: ""मध्य""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""word"" - हिन्दी: ""शब्द""
+English: ""mountain"" - हिन्दी: ""पहाड़""
+English: ""book"" - हिन्दी: ""किताब""
+English: ""five"" - हिन्दी: """,five,पाँच,[13260],five,[10282],पाँच,[13260]
+"Translate the following words from English to Hindi.
+
+English: ""word"" - हिन्दी: ""शब्द""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""cave"" - हिन्दी: ""गुफा""
+English: ""painting"" - हिन्दी: ""पेंटिंग""
+English: ""hair"" - हिन्दी: ""बाल""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""six"" - हिन्दी: """,six,छह,[11135],six,[11501],छह,[11135]
+"Translate the following words from English to Hindi.
+
+English: ""point"" - हिन्दी: ""बिंदु""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""history"" - हिन्दी: ""इतिहास""
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""machine"" - हिन्दी: ""मशीन""
+English: ""village"" - हिन्दी: ""गाँव""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""day"" - हिन्दी: ""दिन""
+English: ""seven"" - हिन्दी: """,seven,सात,[8662],seven,[20644],सात,[8662]
+"Translate the following words from English to Hindi.
+
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""law"" - हिन्दी: ""कानून""
+English: ""shop"" - हिन्दी: ""दुकान""
+English: ""rock"" - हिन्दी: ""चट्टान""
+English: ""middle"" - हिन्दी: ""मध्य""
+English: ""household"" - हिन्दी: ""घर""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""wave"" - हिन्दी: ""लहर""
+English: ""spring"" - हिन्दी: ""वसंत""
+English: ""eight"" - हिन्दी: """,eight,आठ,[6537],eight,[18518],आठ,[6537]
+"Translate the following words from English to Hindi.
+
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""position"" - हिन्दी: ""स्थिति""
+English: ""wave"" - हिन्दी: ""लहर""
+English: ""east"" - हिन्दी: ""पूर्व""
+English: ""wood"" - हिन्दी: ""लकड़ी""
+English: ""four"" - हिन्दी: ""चार""
+English: ""source"" - हिन्दी: ""स्रोत""
+English: ""village"" - हिन्दी: ""गाँव""
+English: ""nine"" - हिन्दी: """,nine,नौ,[5437],nine,[32133],नौ,[5437]
+"Translate the following words from English to Hindi.
+
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""mother"" - हिन्दी: ""माँ""
+English: ""cloud"" - हिन्दी: ""बादल""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""eye"" - हिन्दी: ""आँख""
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""history"" - हिन्दी: ""इतिहास""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""ten"" - हिन्दी: """,ten,दस,[15064],ten,[17467],दस,[15064]
+"Translate the following words from English to Hindi.
+
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""net"" - हिन्दी: ""जाल""
+English: ""wood"" - हिन्दी: ""लकड़ी""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""book"" - हिन्दी: ""किताब""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""part"" - हिन्दी: ""हिस्सा""
+English: ""red"" - हिन्दी: ""लाल""
+English: ""time"" - हिन्दी: ""समय""
+English: ""head"" - हिन्दी: """,head,सिर,[14502],head,[6323],सिर,[14502]
+"Translate the following words from English to Hindi.
+
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""law"" - हिन्दी: ""कानून""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""lake"" - हिन्दी: ""झील""
+English: ""painting"" - हिन्दी: ""पेंटिंग""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""east"" - हिन्दी: ""पूर्व""
+English: ""shop"" - हिन्दी: """,shop,दुकान,[14172],shop,[33777],दुकान,[14172]
+"Translate the following words from English to Hindi.
+
+English: ""item"" - हिन्दी: ""वस्तु""
+English: ""ground"" - हिन्दी: ""मैदान""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""fire"" - हिन्दी: ""आग""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""school"" - हिन्दी: ""विद्यालय""
+English: ""street"" - हिन्दी: """,street,सड़क,[9548],street,[35246],सड़क,[9548]
+"Translate the following words from English to Hindi.
+
+English: ""heart"" - हिन्दी: ""दिल""
+English: ""cloud"" - हिन्दी: ""बादल""
+English: ""foot"" - हिन्दी: ""पैर""
+English: ""cave"" - हिन्दी: ""गुफा""
+English: ""law"" - हिन्दी: ""कानून""
+English: ""school"" - हिन्दी: ""विद्यालय""
+English: ""four"" - हिन्दी: ""चार""
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""part"" - हिन्दी: """,part,हिस्सा,[4661],part,[1905],हिस्सा,[4661]
+"Translate the following words from English to Hindi.
+
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""soil"" - हिन्दी: ""मिट्टी""
+English: ""word"" - हिन्दी: ""शब्द""
+English: ""pond"" - हिन्दी: ""तालाब""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""benefit"" - हिन्दी: ""लाभ""
+English: ""wood"" - हिन्दी: ""लकड़ी""
+English: ""eye"" - हिन्दी: """,eye,आँख,[51938],eye,[14863],आँख,[51938]
+"Translate the following words from English to Hindi.
+
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""net"" - हिन्दी: ""जाल""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""point"" - हिन्दी: ""बिंदु""
+English: ""child"" - हिन्दी: ""बच्चा""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""field"" - हिन्दी: """,field,क्षेत्र,[2087],field,[8978],क्षेत्र,[2087]
+"Translate the following words from English to Hindi.
+
+English: ""two"" - हिन्दी: ""दो""
+English: ""mountain"" - हिन्दी: ""पहाड़""
+English: ""river"" - हिन्दी: ""नदी""
+English: ""return"" - हिन्दी: ""वापसी""
+English: ""village"" - हिन्दी: ""गाँव""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""soil"" - हिन्दी: ""मिट्टी""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""site"" - हिन्दी: """,site,साइट,[35743],site,[9862],साइट,[35743]
+"Translate the following words from English to Hindi.
+
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""sea"" - हिन्दी: ""समुद्र""
+English: ""attempt"" - हिन्दी: ""प्रयास""
+English: ""history"" - हिन्दी: ""इतिहास""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""day"" - हिन्दी: ""दिन""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""shop"" - हिन्दी: ""दुकान""
+English: ""dance"" - हिन्दी: """,dance,नृत्य,[22922],dance,[41726],नृत्य,[22922]
+"Translate the following words from English to Hindi.
+
+English: ""red"" - हिन्दी: ""लाल""
+English: ""one"" - हिन्दी: ""एक""
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""four"" - हिन्दी: ""चार""
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""item"" - हिन्दी: ""वस्तु""
+English: ""book"" - हिन्दी: ""किताब""
+English: ""heart"" - हिन्दी: ""दिल""
+English: ""wood"" - हिन्दी: ""लकड़ी""
+English: ""word"" - हिन्दी: """,word,शब्द,[5392],word,[9369],शब्द,[5392]
+"Translate the following words from English to Hindi.
+
+English: ""machine"" - हिन्दी: ""मशीन""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""benefit"" - हिन्दी: ""लाभ""
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""point"" - हिन्दी: ""बिंदु""
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""pair"" - हिन्दी: """,pair,जोड़ी,[31757],pair,[30492],जोड़ी,[31757]
+"Translate the following words from English to Hindi.
+
+English: ""school"" - हिन्दी: ""विद्यालय""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""one"" - हिन्दी: ""एक""
+English: ""village"" - हिन्दी: ""गाँव""
+English: ""four"" - हिन्दी: ""चार""
+English: ""site"" - हिन्दी: ""साइट""
+English: ""return"" - हिन्दी: ""वापसी""
+English: ""platform"" - हिन्दी: ""मंच""
+English: ""foot"" - हिन्दी: ""पैर""
+English: ""seat"" - हिन्दी: """,seat,सीट,[17875],seat,[41766],सीट,[17875]
+"Translate the following words from English to Hindi.
+
+English: ""example"" - हिन्दी: ""उदाहरण""
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""meeting"" - हिन्दी: ""बैठक""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""source"" - हिन्दी: ""स्रोत""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""song"" - हिन्दी: ""गीत""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""light"" - हिन्दी: """,light,प्रकाश,[4167],light,[5967],प्रकाश,[4167]
+"Translate the following words from English to Hindi.
+
+English: ""position"" - हिन्दी: ""स्थिति""
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""household"" - हिन्दी: ""घर""
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""heart"" - हिन्दी: ""दिल""
+English: ""hair"" - हिन्दी: ""बाल""
+English: ""thousand"" - हिन्दी: """,thousand,हजार,[10740],thousand,[31683],हजार,[10740]
+"Translate the following words from English to Hindi.
+
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""ground"" - हिन्दी: ""मैदान""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""one"" - हिन्दी: ""एक""
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""north"" - हिन्दी: """,north,उत्तर,[6297],north,[16066],उत्तर,[6297]
+"Translate the following words from English to Hindi.
+
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""north"" - हिन्दी: ""उत्तर""
+English: ""foot"" - हिन्दी: ""पैर""
+English: ""ground"" - हिन्दी: ""मैदान""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""one"" - हिन्दी: ""एक""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""song"" - हिन्दी: ""गीत""
+English: ""machine"" - हिन्दी: """,machine,मशीन,[23622],machine,[18498],मशीन,[23622]
+"Translate the following words from English to Hindi.
+
+English: ""six"" - हिन्दी: ""छह""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""middle"" - हिन्दी: ""मध्य""
+English: ""section"" - हिन्दी: ""खंड""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""return"" - हिन्दी: ""वापसी""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""gold"" - हिन्दी: ""सोना""
+English: ""time"" - हिन्दी: """,time,समय,[2404],time,[2213],समय,[2404]
+"Translate the following words from English to Hindi.
+
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""hand"" - हिन्दी: ""हाथ""
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""water"" - हिन्दी: ""पानी""
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""spring"" - हिन्दी: ""वसंत""
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""section"" - हिन्दी: ""खंड""
+English: ""benefit"" - हिन्दी: """,benefit,लाभ,[11520],benefit,[17336],लाभ,[11520]
+"Translate the following words from English to Hindi.
+
+English: ""advance"" - हिन्दी: ""प्रगति""
+English: ""five"" - हिन्दी: ""पाँच""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""red"" - हिन्दी: ""लाल""
+English: ""sea"" - हिन्दी: ""समुद्र""
+English: ""water"" - हिन्दी: ""पानी""
+English: ""tribe"" - हिन्दी: ""जनजाति""
+English: ""position"" - हिन्दी: """,position,स्थिति,[7229],position,[10791],स्थिति,[7229]
+"Translate the following words from English to Hindi.
+
+English: ""soil"" - हिन्दी: ""मिट्टी""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""sound"" - हिन्दी: ""आवाज़""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""street"" - हिन्दी: ""सड़क""
+English: ""north"" - हिन्दी: ""उत्तर""
+English: ""rock"" - हिन्दी: ""चट्टान""
+English: ""ten"" - हिन्दी: ""दस""
+English: ""province"" - हिन्दी: """,province,प्रांत,[19257],province,[44990],प्रांत,[19257]
+"Translate the following words from English to Hindi.
+
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""site"" - हिन्दी: ""साइट""
+English: ""street"" - हिन्दी: ""सड़क""
+English: ""two"" - हिन्दी: ""दो""
+English: ""rock"" - हिन्दी: ""चट्टान""
+English: ""law"" - हिन्दी: ""कानून""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""middle"" - हिन्दी: """,middle,मध्य,[6023],middle,[17304],मध्य,[6023]
+"Translate the following words from English to Hindi.
+
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""spring"" - हिन्दी: ""वसंत""
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""official"" - हिन्दी: ""अधिकारी""
+English: ""position"" - हिन्दी: ""स्थिति""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""friend"" - हिन्दी: """,friend,दोस्त,[16075],friend,[15330],दोस्त,[16075]
+"Translate the following words from English to Hindi.
+
+English: ""hair"" - हिन्दी: ""बाल""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""fire"" - हिन्दी: ""आग""
+English: ""two"" - हिन्दी: ""दो""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""hand"" - हिन्दी: ""हाथ""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""color"" - हिन्दी: """,color,रंग,[6530],color,[10309],रंग,[6530]
+"Translate the following words from English to Hindi.
+
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""river"" - हिन्दी: ""नदी""
+English: ""spring"" - हिन्दी: ""वसंत""
+English: ""water"" - हिन्दी: ""पानी""
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""net"" - हिन्दी: ""जाल""
+English: ""lake"" - हिन्दी: ""झील""
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""kind"" - हिन्दी: """,kind,प्रकार,[3159],kind,[8582],प्रकार,[3159]
+"Translate the following words from English to Hindi.
+
+English: ""valley"" - हिन्दी: ""घाटी""
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""language"" - हिन्दी: ""भाषा""
+English: ""part"" - हिन्दी: ""हिस्सा""
+English: ""book"" - हिन्दी: ""किताब""
+English: ""lake"" - हिन्दी: ""झील""
+English: ""cave"" - हिन्दी: ""गुफा""
+English: ""sound"" - हिन्दी: ""आवाज़""
+English: ""judge"" - हिन्दी: """,judge,न्यायाधीश,[17808],judge,[46524],न्यायाधीश,[17808]
+"Translate the following words from English to Hindi.
+
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""mountain"" - हिन्दी: ""पहाड़""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""flower"" - हिन्दी: ""फूल""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""school"" - हिन्दी: """,school,विद्यालय,[11819],school,[4398],विद्यालय,[11819]
+"Translate the following words from English to Hindi.
+
+English: ""mountain"" - हिन्दी: ""पहाड़""
+English: ""village"" - हिन्दी: ""गाँव""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""four"" - हिन्दी: ""चार""
+English: ""machine"" - हिन्दी: ""मशीन""
+English: ""structure"" - हिन्दी: """,structure,संरचना,[11940],structure,[10864],संरचना,[11940]
+"Translate the following words from English to Hindi.
+
+English: ""eye"" - हिन्दी: ""आँख""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""group"" - हिन्दी: ""समूह""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""tribe"" - हिन्दी: ""जनजाति""
+English: ""child"" - हिन्दी: ""बच्चा""
+English: ""east"" - हिन्दी: ""पूर्व""
+English: ""house"" - हिन्दी: ""घर""
+English: ""city"" - हिन्दी: ""शहर""
+English: ""example"" - हिन्दी: """,example,उदाहरण,[6383],example,[5150],उदाहरण,[6383]
+"Translate the following words from English to Hindi.
+
+English: ""item"" - हिन्दी: ""वस्तु""
+English: ""net"" - हिन्दी: ""जाल""
+English: ""benefit"" - हिन्दी: ""लाभ""
+English: ""child"" - हिन्दी: ""बच्चा""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""song"" - हिन्दी: ""गीत""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""meeting"" - हिन्दी: ""बैठक""
+English: ""face"" - हिन्दी: """,face,चेहरा,[40034],face,[12747],चेहरा,[40034]
+"Translate the following words from English to Hindi.
+
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""site"" - हिन्दी: ""साइट""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""one"" - हिन्दी: ""एक""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""mother"" - हिन्दी: ""माँ""
+English: ""word"" - हिन्दी: ""शब्द""
+English: ""bridge"" - हिन्दी: """,bridge,पुल,[21794],bridge,[33760],पुल,[21794]
+"Translate the following words from English to Hindi.
+
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""gold"" - हिन्दी: ""सोना""
+English: ""eye"" - हिन्दी: ""आँख""
+English: ""sound"" - हिन्दी: ""आवाज़""
+English: ""song"" - हिन्दी: ""गीत""
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""two"" - हिन्दी: ""दो""
+English: ""item"" - हिन्दी: """,item,वस्तु,[14543],item,[25158],वस्तु,[14543]
+"Translate the following words from English to Hindi.
+
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""wave"" - हिन्दी: ""लहर""
+English: ""color"" - हिन्दी: ""रंग""
+English: ""ten"" - हिन्दी: ""दस""
+English: ""hair"" - हिन्दी: ""बाल""
+English: ""child"" - हिन्दी: ""बच्चा""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""generation"" - हिन्दी: ""पीढ़ी""
+English: ""soil"" - हिन्दी: ""मिट्टी""
+English: ""group"" - हिन्दी: """,group,समूह,[3882],group,[6371],समूह,[3882]
+"Translate the following words from English to Hindi.
+
+English: ""benefit"" - हिन्दी: ""लाभ""
+English: ""rock"" - हिन्दी: ""चट्टान""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""source"" - हिन्दी: ""स्रोत""
+English: ""point"" - हिन्दी: ""बिंदु""
+English: ""advance"" - हिन्दी: ""प्रगति""
+English: ""red"" - हिन्दी: ""लाल""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""platform"" - हिन्दी: """,platform,मंच,[19764],platform,[22391],मंच,[19764]
+"Translate the following words from English to Hindi.
+
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""machine"" - हिन्दी: ""मशीन""
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""advance"" - हिन्दी: ""प्रगति""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""east"" - हिन्दी: ""पूर्व""
+English: ""sea"" - हिन्दी: ""समुद्र""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""house"" - हिन्दी: """,house,घर,[3306],house,[9240],घर,[3306]
+"Translate the following words from English to Hindi.
+
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""valley"" - हिन्दी: ""घाटी""
+English: ""official"" - हिन्दी: ""अधिकारी""
+English: ""household"" - हिन्दी: ""घर""
+English: ""tribe"" - हिन्दी: ""जनजाति""
+English: ""advance"" - हिन्दी: ""प्रगति""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""sun"" - हिन्दी: """,sun,सूर्य,[21782],sun,[10297],सूर्य,[21782]
+"Translate the following words from English to Hindi.
+
+English: ""household"" - हिन्दी: ""घर""
+English: ""light"" - हिन्दी: ""प्रकाश""
+English: ""fire"" - हिन्दी: ""आग""
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""tribe"" - हिन्दी: ""जनजाति""
+English: ""five"" - हिन्दी: ""पाँच""
+English: ""one"" - हिन्दी: ""एक""
+English: ""group"" - हिन्दी: ""समूह""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""meeting"" - हिन्दी: """,meeting,बैठक,[10671],meeting,[22513],बैठक,[10671]
+"Translate the following words from English to Hindi.
+
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""word"" - हिन्दी: ""शब्द""
+English: ""seven"" - हिन्दी: ""सात""
+English: ""attempt"" - हिन्दी: ""प्रयास""
+English: ""soil"" - हिन्दी: ""मिट्टी""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""river"" - हिन्दी: ""नदी""
+English: ""six"" - हिन्दी: ""छह""
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""history"" - हिन्दी: """,history,इतिहास,[6906],history,[6582],इतिहास,[6906]
+"Translate the following words from English to Hindi.
+
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""rock"" - हिन्दी: ""चट्टान""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""valley"" - हिन्दी: """,valley,घाटी,[35439],valley,[51504],घाटी,[35439]
+"Translate the following words from English to Hindi.
+
+English: ""red"" - हिन्दी: ""लाल""
+English: ""day"" - हिन्दी: ""दिन""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""hand"" - हिन्दी: ""हाथ""
+English: ""word"" - हिन्दी: ""शब्द""
+English: ""heart"" - हिन्दी: ""दिल""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""meeting"" - हिन्दी: ""बैठक""
+English: ""lake"" - हिन्दी: ""झील""
+English: ""square"" - हिन्दी: """,square,वर्ग,[11141],square,[23128],वर्ग,[11141]
+"Translate the following words from English to Hindi.
+
+English: ""street"" - हिन्दी: ""सड़क""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""valley"" - हिन्दी: ""घाटी""
+English: ""ten"" - हिन्दी: ""दस""
+English: ""source"" - हिन्दी: ""स्रोत""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""household"" - हिन्दी: ""घर""
+English: ""history"" - हिन्दी: ""इतिहास""
+English: ""generation"" - हिन्दी: """,generation,पीढ़ी,[56307],generation,[20515],पीढ़ी,[56307]
+"Translate the following words from English to Hindi.
+
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""soil"" - हिन्दी: ""मिट्टी""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""platform"" - हिन्दी: ""मंच""
+English: ""south"" - हिन्दी: """,south,दक्षिण,[6060],south,[16657],दक्षिण,[6060]
+"Translate the following words from English to Hindi.
+
+English: ""ten"" - हिन्दी: ""दस""
+English: ""day"" - हिन्दी: ""दिन""
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""heart"" - हिन्दी: ""दिल""
+English: ""attempt"" - हिन्दी: ""प्रयास""
+English: ""tea"" - हिन्दी: ""चाय""
+English: ""east"" - हिन्दी: ""पूर्व""
+English: ""meeting"" - हिन्दी: ""बैठक""
+English: ""spring"" - हिन्दी: ""वसंत""
+English: ""tribe"" - हिन्दी: """,tribe,जनजाति,[53573],tribe,[54048],जनजाति,[53573]
+"Translate the following words from English to Hindi.
+
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""north"" - हिन्दी: ""उत्तर""
+English: ""four"" - हिन्दी: ""चार""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""ocean"" - हिन्दी: ""महासागर""
+English: ""light"" - हिन्दी: ""प्रकाश""
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""section"" - हिन्दी: ""खंड""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""city"" - हिन्दी: """,city,शहर,[3418],city,[9489],शहर,[3418]
+"Translate the following words from English to Hindi.
+
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""spring"" - हिन्दी: ""वसंत""
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""lake"" - हिन्दी: ""झील""
+English: ""heart"" - हिन्दी: ""दिल""
+English: ""four"" - हिन्दी: ""चार""
+English: ""house"" - हिन्दी: ""घर""
+English: ""eye"" - हिन्दी: ""आँख""
+English: ""valley"" - हिन्दी: ""घाटी""
+English: ""language"" - हिन्दी: """,language,भाषा,[9572],language,[7998],भाषा,[9572]
+"Translate the following words from English to Hindi.
+
+English: ""red"" - हिन्दी: ""लाल""
+English: ""city"" - हिन्दी: ""शहर""
+English: ""ground"" - हिन्दी: ""मैदान""
+English: ""street"" - हिन्दी: ""सड़क""
+English: ""history"" - हिन्दी: ""इतिहास""
+English: ""east"" - हिन्दी: ""पूर्व""
+English: ""attempt"" - हिन्दी: ""प्रयास""
+English: ""net"" - हिन्दी: ""जाल""
+English: ""painting"" - हिन्दी: ""पेंटिंग""
+English: ""speed"" - हिन्दी: """,speed,गति,[8240],speed,[15590],गति,[8240]
+"Translate the following words from English to Hindi.
+
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""school"" - हिन्दी: ""विद्यालय""
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""ocean"" - हिन्दी: ""महासागर""
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""item"" - हिन्दी: ""वस्तु""
+English: ""wood"" - हिन्दी: ""लकड़ी""
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""ground"" - हिन्दी: """,ground,मैदान,[18386],ground,[9402],मैदान,[18386]
+"Translate the following words from English to Hindi.
+
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""site"" - हिन्दी: ""साइट""
+English: ""pond"" - हिन्दी: ""तालाब""
+English: ""six"" - हिन्दी: ""छह""
+English: ""street"" - हिन्दी: ""सड़क""
+English: ""meeting"" - हिन्दी: ""बैठक""
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""middle"" - हिन्दी: ""मध्य""
+English: ""advance"" - हिन्दी: """,advance,प्रगति,[26926],advance,[25366],प्रगति,[26926]
+"Translate the following words from English to Hindi.
+
+English: ""pond"" - हिन्दी: ""तालाब""
+English: ""example"" - हिन्दी: ""उदाहरण""
+English: ""wave"" - हिन्दी: ""लहर""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""hundred"" - हिन्दी: ""सौ""
+English: ""south"" - हिन्दी: ""दक्षिण""
+English: ""cave"" - हिन्दी: ""गुफा""
+English: ""attempt"" - हिन्दी: """,attempt,प्रयास,[12346],attempt,[13179],प्रयास,[12346]
+"Translate the following words from English to Hindi.
+
+English: ""middle"" - हिन्दी: ""मध्य""
+English: ""day"" - हिन्दी: ""दिन""
+English: ""field"" - हिन्दी: ""क्षेत्र""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""fire"" - हिन्दी: ""आग""
+English: ""source"" - हिन्दी: ""स्रोत""
+English: ""two"" - हिन्दी: ""दो""
+English: ""gold"" - हिन्दी: ""सोना""
+English: ""cave"" - हिन्दी: ""गुफा""
+English: ""defeat"" - हिन्दी: """,defeat,हार,[10889],defeat,[57505],हार,[10889]
+"Translate the following words from English to Hindi.
+
+English: ""foot"" - हिन्दी: ""पैर""
+English: ""benefit"" - हिन्दी: ""लाभ""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""net"" - हिन्दी: ""जाल""
+English: ""head"" - हिन्दी: ""सिर""
+English: ""water"" - हिन्दी: ""पानी""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""mother"" - हिन्दी: """,mother,माँ,[16826],mother,[14107],माँ,[16826]
+"Translate the following words from English to Hindi.
+
+English: ""ten"" - हिन्दी: ""दस""
+English: ""time"" - हिन्दी: ""समय""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""fruit"" - हिन्दी: ""फल""
+English: ""net"" - हिन्दी: ""जाल""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""return"" - हिन्दी: ""वापसी""
+English: ""site"" - हिन्दी: ""साइट""
+English: ""line"" - हिन्दी: ""रेखा""
+English: ""east"" - हिन्दी: """,east,पूर्व,[5031],east,[24890],पूर्व,[5031]
+"Translate the following words from English to Hindi.
+
+English: ""light"" - हिन्दी: ""प्रकाश""
+English: ""sea"" - हिन्दी: ""समुद्र""
+English: ""ten"" - हिन्दी: ""दस""
+English: ""spring"" - हिन्दी: ""वसंत""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""time"" - हिन्दी: ""समय""
+English: ""rise"" - हिन्दी: ""वृद्धि""
+English: ""law"" - हिन्दी: ""कानून""
+English: ""return"" - हिन्दी: """,return,वापसी,[32204],return,[2555],वापसी,[32204]
+"Translate the following words from English to Hindi.
+
+English: ""eye"" - हिन्दी: ""आँख""
+English: ""middle"" - हिन्दी: ""मध्य""
+English: ""benefit"" - हिन्दी: ""लाभ""
+English: ""water"" - हिन्दी: ""पानी""
+English: ""wood"" - हिन्दी: ""लकड़ी""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""site"" - हिन्दी: ""साइट""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""speech"" - हिन्दी: """,speech,भाषण,[24294],speech,[21950],भाषण,[24294]
+"Translate the following words from English to Hindi.
+
+English: ""painting"" - हिन्दी: ""पेंटिंग""
+English: ""book"" - हिन्दी: ""किताब""
+English: ""rock"" - हिन्दी: ""चट्टान""
+English: ""north"" - हिन्दी: ""उत्तर""
+English: ""advance"" - हिन्दी: ""प्रगति""
+English: ""province"" - हिन्दी: ""प्रांत""
+English: ""example"" - हिन्दी: ""उदाहरण""
+English: ""ocean"" - हिन्दी: ""महासागर""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""child"" - हिन्दी: """,child,बच्चा,[38284],child,[2639],बच्चा,[38284]
+"Translate the following words from English to Hindi.
+
+English: ""wood"" - हिन्दी: ""लकड़ी""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""structure"" - हिन्दी: ""संरचना""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""child"" - हिन्दी: ""बच्चा""
+English: ""sea"" - हिन्दी: ""समुद्र""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""four"" - हिन्दी: ""चार""
+English: ""hair"" - हिन्दी: """,hair,बाल,[15926],hair,[19903],बाल,[15926]
+"Translate the following words from English to Hindi.
+
+English: ""judge"" - हिन्दी: ""न्यायाधीश""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""six"" - हिन्दी: ""छह""
+English: ""five"" - हिन्दी: ""पाँच""
+English: ""sea"" - हिन्दी: ""समुद्र""
+English: ""attempt"" - हिन्दी: ""प्रयास""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""middle"" - हिन्दी: ""मध्य""
+English: ""generation"" - हिन्दी: ""पीढ़ी""
+English: ""household"" - हिन्दी: """,household,घर,[3306],household,[21498],घर,[3306]
+"Translate the following words from English to Hindi.
+
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""school"" - हिन्दी: ""विद्यालय""
+English: ""attempt"" - हिन्दी: ""प्रयास""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""advance"" - हिन्दी: ""प्रगति""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""tribe"" - हिन्दी: ""जनजाति""
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""person"" - हिन्दी: """,person,व्यक्ति,[3632],person,[4336],व्यक्ति,[3632]
+"Translate the following words from English to Hindi.
+
+English: ""net"" - हिन्दी: ""जाल""
+English: ""time"" - हिन्दी: ""समय""
+English: ""position"" - हिन्दी: ""स्थिति""
+English: ""history"" - हिन्दी: ""इतिहास""
+English: ""light"" - हिन्दी: ""प्रकाश""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""benefit"" - हिन्दी: ""लाभ""
+English: ""river"" - हिन्दी: ""नदी""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""section"" - हिन्दी: """,section,खंड,[10619],section,[14587],खंड,[10619]
+"Translate the following words from English to Hindi.
+
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""wave"" - हिन्दी: ""लहर""
+English: ""machine"" - हिन्दी: ""मशीन""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""eight"" - हिन्दी: ""आठ""
+English: ""foot"" - हिन्दी: ""पैर""
+English: ""cloud"" - हिन्दी: ""बादल""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""benefit"" - हिन्दी: ""लाभ""
+English: ""official"" - हिन्दी: """,official,अधिकारी,[7598],official,[15351],अधिकारी,[7598]
+"Translate the following words from English to Hindi.
+
+English: ""snow"" - हिन्दी: ""बर्फ""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""summer"" - हिन्दी: ""गर्मी""
+English: ""face"" - हिन्दी: ""चेहरा""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""song"" - हिन्दी: ""गीत""
+English: ""speed"" - हिन्दी: ""गति""
+English: ""generation"" - हिन्दी: ""पीढ़ी""
+English: ""pair"" - हिन्दी: ""जोड़ी""
+English: ""hundred"" - हिन्दी: """,hundred,सौ,[8013],hundred,[15984],सौ,[8013]
+"Translate the following words from English to Hindi.
+
+English: ""ground"" - हिन्दी: ""मैदान""
+English: ""attempt"" - हिन्दी: ""प्रयास""
+English: ""wood"" - हिन्दी: ""लकड़ी""
+English: ""red"" - हिन्दी: ""लाल""
+English: ""bridge"" - हिन्दी: ""पुल""
+English: ""three"" - हिन्दी: ""तीन""
+English: ""defeat"" - हिन्दी: ""हार""
+English: ""station"" - हिन्दी: ""स्टेशन""
+English: ""position"" - हिन्दी: ""स्थिति""
+English: ""office"" - हिन्दी: """,office,कार्यालय,[10807],office,[20173],कार्यालय,[10807]
+"Translate the following words from English to Hindi.
+
+English: ""advance"" - हिन्दी: ""प्रगति""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""mountain"" - हिन्दी: ""पहाड़""
+English: ""mother"" - हिन्दी: ""माँ""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""time"" - हिन्दी: ""समय""
+English: ""office"" - हिन्दी: ""कार्यालय""
+English: ""sand"" - हिन्दी: ""रेत""
+English: ""red"" - हिन्दी: ""लाल""
+English: ""rock"" - हिन्दी: """,rock,चट्टान,[51830],rock,[18111],चट्टान,[51830]
+"Translate the following words from English to Hindi.
+
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""ball"" - हिन्दी: ""गेंद""
+English: ""pond"" - हिन्दी: ""तालाब""
+English: ""six"" - हिन्दी: ""छह""
+English: ""rice"" - हिन्दी: ""चावल""
+English: ""return"" - हिन्दी: ""वापसी""
+English: ""field"" - हिन्दी: ""क्षेत्र""
+English: ""nine"" - हिन्दी: ""नौ""
+English: ""benefit"" - हिन्दी: ""लाभ""
+English: ""rise"" - हिन्दी: """,rise,वृद्धि,[17846],rise,[18316],वृद्धि,[17846]
+"Translate the following words from English to Hindi.
+
+English: ""version"" - हिन्दी: ""संस्करण""
+English: ""person"" - हिन्दी: ""व्यक्ति""
+English: ""sun"" - हिन्दी: ""सूर्य""
+English: ""seat"" - हिन्दी: ""सीट""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""village"" - हिन्दी: ""गाँव""
+English: ""speech"" - हिन्दी: ""भाषण""
+English: ""kind"" - हिन्दी: ""प्रकार""
+English: ""sea"" - हिन्दी: ""समुद्र""
+English: ""sound"" - हिन्दी: """,sound,आवाज़,[33452],sound,[13807],आवाज़,[33452]
+"Translate the following words from English to Hindi.
+
+English: ""eye"" - हिन्दी: ""आँख""
+English: ""city"" - हिन्दी: ""शहर""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""door"" - हिन्दी: ""द्वार""
+English: ""site"" - हिन्दी: ""साइट""
+English: ""six"" - हिन्दी: ""छह""
+English: ""friend"" - हिन्दी: ""दोस्त""
+English: ""official"" - हिन्दी: ""अधिकारी""
+English: ""house"" - हिन्दी: ""घर""
+English: ""power"" - हिन्दी: """,power,शक्ति,[11286],power,[4781],शक्ति,[11286]
+"Translate the following words from English to Hindi.
+
+English: ""forest"" - हिन्दी: ""जंगल""
+English: ""field"" - हिन्दी: ""क्षेत्र""
+English: ""power"" - हिन्दी: ""शक्ति""
+English: ""wave"" - हिन्दी: ""लहर""
+English: ""water"" - हिन्दी: ""पानी""
+English: ""return"" - हिन्दी: ""वापसी""
+English: ""square"" - हिन्दी: ""वर्ग""
+English: ""dance"" - हिन्दी: ""नृत्य""
+English: ""child"" - हिन्दी: ""बच्चा""
+English: ""summer"" - हिन्दी: """,summer,गर्मी,[26544],summer,[17174],गर्मी,[26544]
