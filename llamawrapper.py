@@ -71,21 +71,68 @@ class AttnWrapper(torch.nn.Module):
         self.add_tensor = None
         self.act_as_identity = False
 
+# class MLPWrapper(torch.nn.Module):
+#     def __init__(self, mlp):
+#         super().__init__()
+#         self.mlp = mlp
+#         self.up_proj = mlp.up_proj
+#         self.gate_proj = mlp.gate_proj
+#         self.act_fn = mlp.act_fn
+#         self.down_proj = mlp.down_proj
+#         self.neuron_interventions = {}
+#         self.post_activation = None
+    
+#     def forward(self, x):
+#         post_activation = self.act_fn(self.gate_proj(x)) * self.up_proj(x)
+#         self.post_activation = post_activation.detach().cpu()
+#         output = self.down_proj(post_activation)
+#         if len(self.neuron_interventions) > 0:
+#             print('performing intervention: mlp_neuron_interventions')
+#             for neuron_idx, mean in self.neuron_interventions.items():
+#                 output[:, :, neuron_idx] = mean
+#         return output
+    
+#     def reset(self):
+#         self.neuron_interventions = {}
+    
+#     def freeze_neuron(self, neuron_idx, mean):
+#         self.neuron_interventions[neuron_idx] = mean
+
+    # UPDATE:3: update the MLPWrapper to be MoE-aware. 
+    # If the block is a standard dense MLP, it keeps the original behavior; 
+    # if it's an MoE block, it safely delegates the forward pass directly to the underlying MoE module without crashing.
+
 class MLPWrapper(torch.nn.Module):
     def __init__(self, mlp):
         super().__init__()
         self.mlp = mlp
-        self.up_proj = mlp.up_proj
-        self.gate_proj = mlp.gate_proj
-        self.act_fn = mlp.act_fn
-        self.down_proj = mlp.down_proj
+        # Check if the block is a standard dense MLP or an MoE block
+        if hasattr(mlp, 'up_proj'):
+            self.up_proj = mlp.up_proj
+            self.gate_proj = mlp.gate_proj
+            self.act_fn = mlp.act_fn
+            self.down_proj = mlp.down_proj
+            self.is_moe = False
+        else:
+            # MoE block support (SarvamMoESparseMoeBlock)
+            self.up_proj = None
+            self.gate_proj = None
+            self.act_fn = None
+            self.down_proj = None
+            self.is_moe = True
+            
         self.neuron_interventions = {}
         self.post_activation = None
     
     def forward(self, x):
-        post_activation = self.act_fn(self.gate_proj(x)) * self.up_proj(x)
-        self.post_activation = post_activation.detach().cpu()
-        output = self.down_proj(post_activation)
+        if not self.is_moe:
+            post_activation = self.act_fn(self.gate_proj(x)) * self.up_proj(x)
+            self.post_activation = post_activation.detach().cpu()
+            output = self.down_proj(post_activation)
+        else:
+            # For MoE blocks, delegate directly to the underlying sparse MoE module
+            output = self.mlp(x)
+            
         if len(self.neuron_interventions) > 0:
             print('performing intervention: mlp_neuron_interventions')
             for neuron_idx, mean in self.neuron_interventions.items():
@@ -105,9 +152,26 @@ class BlockOutputWrapper(torch.nn.Module):
         self.unembed_matrix = unembed_matrix
         self.norm = norm
 
-        self.block.self_attn = AttnWrapper(self.block.self_attn)
-        self.block.mlp = MLPWrapper(self.block.mlp)
-        self.post_attention_layernorm = self.block.post_attention_layernorm
+#         self.block.self_attn = AttnWrapper(self.block.self_attn)
+#         self.block.mlp = MLPWrapper(self.block.mlp)
+#         self.post_attention_layernorm = self.block.post_attention_layernorm
+
+        # UPDATE:2: Dynamically support both standard Llama layers and Sarvam/MoE decoder layers
+        if hasattr(self.block, 'self_attn'):
+            self.block.self_attn = AttnWrapper(self.block.self_attn)
+        elif hasattr(self.block, 'attn'):  # Common variation in some MoE / custom architectures
+            self.block.attn = AttnWrapper(self.block.attn)
+            
+        if hasattr(self.block, 'mlp'):
+            self.block.mlp = MLPWrapper(self.block.mlp)
+        elif hasattr(self.block, 'block_sparse_moe'):  # Sarvam MoE block attribute
+            self.block.block_sparse_moe = MLPWrapper(self.block.block_sparse_moe)
+
+        # Handle layer norms safely
+        if hasattr(self.block, 'post_attention_layernorm'):
+            self.post_attention_layernorm = self.block.post_attention_layernorm
+        elif hasattr(self.block, 'post_feedforward_layernorm'):
+            self.post_feedforward_layernorm = self.block.post_feedforward_layernorm
 
         self.attn_mech_output_unembedded = None
         self.intermediate_res_unembedded = None
@@ -166,7 +230,26 @@ class LlamaHelper:
                                                           device_map=device_map,
                                                           )
         self.use_embed_head = True
-        W = list(self.model.model.embed_tokens.parameters())[0].detach()
+        # W = list(self.model.model.embed_tokens.parameters())[0].detach()
+        # UPDATE:1: Robustly locate the embedding weights across Llama and Sarvam MoE architectures
+        embed_layer = None
+        for attr in ['embed_tokens', 'shared', 'wte']:
+            if hasattr(self.model.model, attr):
+                embed_layer = getattr(self.model.model, attr)
+                break
+        if embed_layer is None and hasattr(self.model, 'model') and hasattr(self.model.model, 'decoder'):
+            # Fallback for some transformer variations
+            embed_layer = self.model.model.decoder.embed_tokens
+
+        if embed_layer is not None:
+            W = list(embed_layer.parameters())[0].detach()
+        else:
+            # Ultimate fallback: grab from input_embeddings() method if available
+            W = list(self.model.get_input_embeddings().parameters())[0].detach()
+
+        self.use_embed_head = True
+        self.head_embed = torch.nn.Linear(W.size(1), W.size(0), bias=False)
+        self.head_embed.to(W.dtype)
         self.head_embed = torch.nn.Linear(W.size(1), W.size(0), bias=False)
         self.head_embed.to(W.dtype)
         self.norm = self.model.model.norm
