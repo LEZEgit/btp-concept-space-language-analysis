@@ -225,9 +225,12 @@ class LlamaHelper:
             self.device = "cuda" if torch.cuda.is_available() else "cpu"
         else:
             self.device = device
-        self.tokenizer = AutoTokenizer.from_pretrained(dir, token=hf_token)
+
+        self.tokenizer = AutoTokenizer.from_pretrained(dir, token=hf_token,trust_remote_code=True)
         self.model = AutoModelForCausalLM.from_pretrained(dir, token=hf_token,
                                                           device_map=device_map,
+                                                          trust_remote_code=True,
+                                                          dtype=torch.float16
                                                           )
         self.use_embed_head = True
         # W = list(self.model.model.embed_tokens.parameters())[0].detach()
@@ -308,9 +311,14 @@ class LlamaHelper:
     
     def get_logits(self, prompt):
         inputs = self.tokenizer(prompt, return_tensors="pt")
+        # UPDATE:4: Ensure input_ids are on the same device as the embedding layer/model
+        device = next(self.model.parameters()).device
+        inputs = {k: v.to(device) for k, v in inputs.items()}
         with torch.no_grad():
-          logits = self.model(inputs.input_ids).logits
-          return logits
+            # logits = self.model(inputs.input_ids).logits
+            # UPDATE:4: Unpack the dictionary directly into the model forward pass
+            logits = self.model(**inputs).logits
+            return logits
 
     def set_neuron_intervention(self, layer_idx, neuron_idx, mean):
         self.model.model.layers[layer_idx].mlp_freeze_neuron(neuron_idx, mean)
